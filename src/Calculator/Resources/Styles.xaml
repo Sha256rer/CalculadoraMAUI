@@ -65,13 +65,15 @@
                         <VisualState.Setters>
 
                         </VisualState.Setters>
+                      
                     </VisualState>
                     <!-- Actuacion del boton onclick -->
                     <VisualState x:Name="Pressed">
                         <VisualState.Setters>
-                            <Setter Property="Scale" Value="0.8" />
-
+                            <Setter Property="Scale" Value="0.9" />
+                            
                         </VisualState.Setters>
+                     
                     </VisualState>
                     <!--Necesario para que vuelva a la normalidad-->
                     <VisualState x:Name="PointerOver" />

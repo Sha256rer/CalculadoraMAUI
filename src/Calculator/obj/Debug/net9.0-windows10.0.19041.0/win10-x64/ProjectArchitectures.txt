@@ -1,1 +1,1 @@
-C:\Users\Sharerp\Desktop\Calculator\Calculator\src\Calculator\Calculator.csproj;x64
+C:\Users\diurno\Desktop\CalculadoraMAUI\src\Calculator\Calculator.csproj;x64

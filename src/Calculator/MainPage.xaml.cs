@@ -4,7 +4,9 @@ namespace Calculator;
 
 public partial class MainPage : ContentPage
 {
-    
+    /// <summary>
+    /// Inicializa los componentes de la calculadora y ejecuta un metodo clear para limpiar los resultados
+    /// </summary>
     public MainPage()
     {
         InitializeComponent();
@@ -12,6 +14,7 @@ public partial class MainPage : ContentPage
 
     }
 
+    //Variables que establecen el numero en el que nos encontarmos, el numero que estamos metiendo, el operador, el formato decimal y los numeros en double
     string currentEntry = "";
     int currentState = 1;
     string mathOperator;
@@ -19,7 +22,11 @@ public partial class MainPage : ContentPage
     string decimalFormat = "N0";
     
     
-
+    /// <summary>
+    /// Metodo que se aplica cuando introduces un numero mediante un boton
+    /// </summary>
+    /// <param name="sender"></param>
+    /// <param name="e"></param>
     void OnSelectNumber(object sender, EventArgs e)
     {
     
@@ -44,14 +51,20 @@ public partial class MainPage : ContentPage
 
         this.resultText.Text += pressed;
     }
-
+    /// <summary>
+    /// Metodo para seleccionar el operador
+    /// </summary>
+    /// <param name="sender"></param>
+    /// <param name="e"></param>
     void OnSelectOperator(object sender, EventArgs e)
     {
+        //Se guarda el numero en su slot correspondiente
         LockNumberValue(resultText.Text);
 
         currentState = -2;
         Button button = (Button)sender;
         string pressed = button.Text;
+        //Seteo el operador
         mathOperator = pressed;            
     }
 

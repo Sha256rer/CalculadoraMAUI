@@ -4,6 +4,7 @@
     {
         public AppShell()
         {
+
             InitializeComponent();
             Routing.RegisterRoute("BinaryCalculator", typeof(BinaryCalculator));
 

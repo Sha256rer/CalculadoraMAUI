@@ -34430,24 +34430,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sharerp\\.nuget\\packages\\": {},
+    "C:\\Users\\diurno\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\diurno\\Desktop\\CalculadoraMAUI\\src\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\Sharerp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\obj\\",
+      "projectPath": "C:\\Users\\diurno\\Desktop\\CalculadoraMAUI\\src\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\diurno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\diurno\\Desktop\\CalculadoraMAUI\\src\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sharerp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\diurno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
