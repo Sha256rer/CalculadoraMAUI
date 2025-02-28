@@ -4,5 +4,19 @@
         <name>Calculator</name>
     </assembly>
     <members>
+        <member name="M:Calculator.Calculator.TransformBin(System.Int32)">
+            <summary>
+            Metodo que tranforma un numero decimal en binario
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Calculator.Calculator.TransformDec(System.Int32)">
+            <summary>
+            Metodo que transforma un numero binario en un decimal
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
     </members>
 </doc>

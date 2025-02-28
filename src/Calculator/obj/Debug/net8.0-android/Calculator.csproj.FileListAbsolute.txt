@@ -1050,3 +1050,4 @@ C:\Users\Sharerp\Desktop\Calculator\Calculator\src\Calculator\obj\Debug\net8.0-a
 C:\Users\Sharerp\Desktop\Calculator\Calculator\src\Calculator\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Sharerp\Desktop\Calculator\Calculator\src\Calculator\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Sharerp\Desktop\Calculator\Calculator\src\Calculator\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Sharerp\Desktop\Calculator\Calculator\src\Calculator\obj\Debug\net8.0-android\Calculator.sourcelink.json
