@@ -4,6 +4,56 @@
         <name>Calculator</name>
     </assembly>
     <members>
+        <member name="M:Calculator.BinaryCalculator.OnClear(System.Object,System.EventArgs)">
+            <summary>
+            On clear, establece a 0 el string y su version numerica
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.BinaryCalculator.LockNumberValue(System.String)">
+            <summary>
+            Guarda el valor de un string en el numero 
+            </summary>
+            <param name="text"></param>
+        </member>
+        <member name="M:Calculator.BinaryCalculator.Change_Mode(System.Object,System.EventArgs)">
+            <summary>
+            Metodo para modificar la interfaz de un metdodo de conversion al otro
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.BinaryCalculator.BinToDecimal(System.Object,System.EventArgs)">
+            <summary>
+            Metodo para el calculo de binario a decimal
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.BinaryCalculator.DecimalToBin(System.Object,System.EventArgs)">
+            <summary>
+            Transformación de binario a decimal
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.BinaryCalculator.OnSelectNumber(System.Object,System.EventArgs)">
+            <summary>
+            Metodo que se ejecuta cada vez que presionamos un numero en la calculadora
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.Calculator.Calculate(System.Double,System.Double,System.String)">
+            <summary>
+            Metodo calculate, realiza una operación con dos numeros dependiendo del operador que el usuario pase
+            </summary>
+            <param name="value1"></param>
+            <param name="value2"></param>
+            <param name="mathOperator"></param>
+            <returns></returns>
+        </member>
         <member name="M:Calculator.Calculator.TransformBin(System.Int32)">
             <summary>
             Metodo que tranforma un numero decimal en binario
@@ -17,6 +67,53 @@
             </summary>
             <param name="value"></param>
             <returns></returns>
+        </member>
+        <member name="M:Calculator.MainPage.#ctor">
+            <summary>
+            Inicializa los componentes de la calculadora y ejecuta un metodo clear para limpiar los resultados
+            </summary>
+        </member>
+        <member name="M:Calculator.MainPage.OnSelectNumber(System.Object,System.EventArgs)">
+            <summary>
+            Metodo que se aplica cuando introduces un numero mediante un boton
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.MainPage.OnSelectOperator(System.Object,System.EventArgs)">
+            <summary>
+            Metodo para seleccionar el operador
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.MainPage.OnClear(System.Object,System.EventArgs)">
+            <summary>
+            Este metodo borra los dos numeros que tenemos guardados y limpia la pantalla
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.MainPage.OnCalculate(System.Object,System.EventArgs)">
+            <summary>
+            Este metodo realiza el calculo cuando se pulsa el igual
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.MainPage.OnNegative(System.Object,System.EventArgs)">
+            <summary>
+            Met6do para convertir un numero a negativo. No funciona bien
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Calculator.MainPage.OnPercentage(System.Object,System.EventArgs)">
+            <summary>
+            Metodo para calcular porcentajes. No funciona bien
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
         </member>
     </members>
 </doc>

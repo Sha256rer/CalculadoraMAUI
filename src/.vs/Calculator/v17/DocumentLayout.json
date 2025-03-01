@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\binarycalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\binarycalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\binarycalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\binarycalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,36 +23,63 @@
       "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\binarycalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\binarycalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\binarycalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\binarycalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\calculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\42f7268582967c0ca7338e3e79299c0fb434d91ca080c55ec04932c41e905a9a\\UnhandledExceptionEventHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\calculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -61,10 +88,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2C4A6AC-F8F7-4C11-B31C-2CAC8978731E}|Calculator\\Calculator.csproj|c:\\users\\sharerp\\desktop\\calculator\\calculator\\src\\calculator\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -96,8 +119,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:50:23.749Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -124,126 +160,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Calculator\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\MainPage.xaml.cs",
-              "RelativeToolTip": "Calculator\\MainPage.xaml.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:44:55.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BinaryCalculator.xaml",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\BinaryCalculator.xaml",
-              "RelativeDocumentMoniker": "Calculator\\BinaryCalculator.xaml",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\BinaryCalculator.xaml",
-              "RelativeToolTip": "Calculator\\BinaryCalculator.xaml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAQwE4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-22T00:25:58.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "Calculator\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\AppShell.xaml.cs",
-              "RelativeToolTip": "Calculator\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T00:18:16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BinaryCalculator.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\BinaryCalculator.xaml.cs",
-              "RelativeDocumentMoniker": "Calculator\\BinaryCalculator.xaml.cs",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\BinaryCalculator.xaml.cs",
-              "RelativeToolTip": "Calculator\\BinaryCalculator.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAF0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T00:26:08.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Calculator\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\App.xaml.cs",
-              "RelativeToolTip": "Calculator\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:40:33.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.cs",
-              "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.cs",
-              "RelativeToolTip": "Calculator\\Calculator.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvx8AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:45:13.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "App.xaml.sg.cs",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\e4f67967787367630df297e8ec3e1b0b1760cff9\\App.xaml.sg.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e4f67967787367630df297e8ec3e1b0b1760cff9\\App.xaml.sg.cs",
-              "ToolTip": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\e4f67967787367630df297e8ec3e1b0b1760cff9\\App.xaml.sg.cs [Solo lectura]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e4f67967787367630df297e8ec3e1b0b1760cff9\\App.xaml.sg.cs [Solo lectura]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:01:40.664Z",
-              "EditorCaption": " [Solo lectura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Calculator.csproj",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.csproj",
-              "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.csproj",
-              "RelativeToolTip": "Calculator\\Calculator.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-22T00:15:56.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\MainPage.xaml",
               "RelativeDocumentMoniker": "Calculator\\MainPage.xaml",
               "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\MainPage.xaml",
               "RelativeToolTip": "Calculator\\MainPage.xaml",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-18T18:44:54.518Z"
+              "WhenOpened": "2025-02-18T18:44:54.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Resources_Styles.xaml.sg.cs",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\86313a0ef73368a5941f458ef2a88b00ea0aab67\\Resources_Styles.xaml.sg.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\86313a0ef73368a5941f458ef2a88b00ea0aab67\\Resources_Styles.xaml.sg.cs",
-              "ToolTip": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\86313a0ef73368a5941f458ef2a88b00ea0aab67\\Resources_Styles.xaml.sg.cs [Solo lectura]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\86313a0ef73368a5941f458ef2a88b00ea0aab67\\Resources_Styles.xaml.sg.cs [Solo lectura]",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\MainPage.xaml.cs",
+              "RelativeToolTip": "Calculator\\MainPage.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowKUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:01:25.621Z",
-              "EditorCaption": " [Solo lectura]"
+              "WhenOpened": "2025-02-28T15:59:59.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BinaryCalculator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\BinaryCalculator.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\BinaryCalculator.xaml.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\BinaryCalculator.xaml.cs",
+              "RelativeToolTip": "Calculator\\BinaryCalculator.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:47:19.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator\\Calculator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwFcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:45:13.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -253,21 +218,61 @@
               "RelativeDocumentMoniker": "Calculator\\AppShell.xaml",
               "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\AppShell.xaml",
               "RelativeToolTip": "Calculator\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-22T00:18:11.81Z"
+              "WhenOpened": "2025-02-22T00:18:11.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\App.xaml",
-              "RelativeDocumentMoniker": "Calculator\\App.xaml",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\App.xaml",
-              "RelativeToolTip": "Calculator\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\AppShell.xaml.cs",
+              "RelativeToolTip": "Calculator\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:18:16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\App.xaml.cs",
+              "RelativeToolTip": "Calculator\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:40:33.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Calculator\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Calculator\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:40:01.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BinaryCalculator.xaml",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\BinaryCalculator.xaml",
+              "RelativeDocumentMoniker": "Calculator\\BinaryCalculator.xaml",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\BinaryCalculator.xaml",
+              "RelativeToolTip": "Calculator\\BinaryCalculator.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-11T20:36:25.389Z"
+              "WhenOpened": "2025-02-22T00:25:58.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -279,23 +284,134 @@
               "RelativeToolTip": "Calculator\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:45:12.565Z"
+              "WhenOpened": "2025-02-18T18:45:12.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "Calculator\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAQwEQAAABEAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\App.xaml",
+              "RelativeDocumentMoniker": "Calculator\\App.xaml",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\App.xaml",
+              "RelativeToolTip": "Calculator\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-28T21:43:52.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Calculator\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Calculator\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T01:50:23.749Z"
+              "WhenOpened": "2025-02-28T14:40:13.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 13,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "Calculator\\Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Resources\\Styles.xaml",
+              "RelativeToolTip": "Calculator\\Resources\\Styles.xaml",
+              "ViewState": "AgIAALABAAAAAAAAAADwv8YBAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-18T18:40:36.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Calculator.csproj",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.csproj",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.csproj",
+              "RelativeToolTip": "Calculator\\Calculator.csproj",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T00:15:56.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "Calculator\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "Calculator\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-28T14:40:17.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnhandledExceptionEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\42f7268582967c0ca7338e3e79299c0fb434d91ca080c55ec04932c41e905a9a\\UnhandledExceptionEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\42f7268582967c0ca7338e3e79299c0fb434d91ca080c55ec04932c41e905a9a\\UnhandledExceptionEventHandler.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\42f7268582967c0ca7338e3e79299c0fb434d91ca080c55ec04932c41e905a9a\\UnhandledExceptionEventHandler.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\42f7268582967c0ca7338e3e79299c0fb434d91ca080c55ec04932c41e905a9a\\UnhandledExceptionEventHandler.cs [Solo lectura]",
+              "ViewState": "AgIAAKcAAAAAAAAAAAArwLcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:06:22.638Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Calculator\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Calculator\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T14:41:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Calculator\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Calculator\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-28T14:40:24.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Resources_Styles.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\86313a0ef73368a5941f458ef2a88b00ea0aab67\\Resources_Styles.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\86313a0ef73368a5941f458ef2a88b00ea0aab67\\Resources_Styles.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\86313a0ef73368a5941f458ef2a88b00ea0aab67\\Resources_Styles.xaml.sg.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\86313a0ef73368a5941f458ef2a88b00ea0aab67\\Resources_Styles.xaml.sg.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:01:25.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\e4f67967787367630df297e8ec3e1b0b1760cff9\\App.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e4f67967787367630df297e8ec3e1b0b1760cff9\\App.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\Sharerp\\AppData\\Local\\Temp\\.vsdbgsrc\\e4f67967787367630df297e8ec3e1b0b1760cff9\\App.xaml.sg.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e4f67967787367630df297e8ec3e1b0b1760cff9\\App.xaml.sg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:01:40.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Package.appxmanifest",
               "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Windows\\Package.appxmanifest",
               "RelativeDocumentMoniker": "Calculator\\Platforms\\Windows\\Package.appxmanifest",
@@ -306,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Windows\\App.xaml",
               "RelativeDocumentMoniker": "Calculator\\Platforms\\Windows\\App.xaml",
@@ -314,11 +430,12 @@
               "RelativeToolTip": "Calculator\\Platforms\\Windows\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-21T23:57:02.695Z"
+              "WhenOpened": "2025-02-21T23:57:02.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Calculator",
               "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Calculator.csproj",
               "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
@@ -329,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "app.manifest",
               "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Windows\\app.manifest",
               "RelativeDocumentMoniker": "Calculator\\Platforms\\Windows\\app.manifest",
@@ -341,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "tizen-manifest.xml",
               "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\Tizen\\tizen-manifest.xml",
               "RelativeDocumentMoniker": "Calculator\\Platforms\\Tizen\\tizen-manifest.xml",
@@ -353,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\MacCatalyst\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Platforms\\MacCatalyst\\Program.cs",
@@ -365,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Platforms\\iOS\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Platforms\\iOS\\Program.cs",
@@ -374,19 +491,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T23:57:41.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Styles.xaml",
-              "DocumentMoniker": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Resources\\Styles.xaml",
-              "RelativeDocumentMoniker": "Calculator\\Resources\\Styles.xaml",
-              "ToolTip": "C:\\Users\\Sharerp\\Desktop\\Calculator\\Calculator\\src\\Calculator\\Resources\\Styles.xaml",
-              "RelativeToolTip": "Calculator\\Resources\\Styles.xaml",
-              "ViewState": "AgIAALUBAAAAAAAAAADgv0sAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-18T18:40:36.42Z",
-              "EditorCaption": ""
             }
           ]
         },

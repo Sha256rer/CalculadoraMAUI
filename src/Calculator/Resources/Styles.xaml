@@ -51,8 +51,8 @@
     </Style>
 
     <Style TargetType="Button">
-        <Setter Property="TextColor" Value="{StaticResource Light}" />
-        <Setter Property="BackgroundColor" Value="Transparent" />
+        <Setter Property="TextColor"  Value="{AppThemeBinding Light={StaticResource DarkGray}, Dark={StaticResource White}}"/>
+        <Setter Property="BackgroundColor" Value="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource Dark }}" />
         <Setter Property="FontFamily" Value="OpenSansRegular"/>
         <Setter Property="FontSize" Value="32"/>
         <Setter Property="CornerRadius" Value="0"/>
@@ -65,13 +65,15 @@
                         <VisualState.Setters>
 
                         </VisualState.Setters>
+                      
                     </VisualState>
                     <!-- Actuacion del boton onclick -->
                     <VisualState x:Name="Pressed">
                         <VisualState.Setters>
-                            <Setter Property="Scale" Value="0.8" />
-
+                            <Setter Property="Scale" Value="0.9" />
+                            
                         </VisualState.Setters>
+                     
                     </VisualState>
                     <!--Necesario para que vuelva a la normalidad-->
                     <VisualState x:Name="PointerOver" />
@@ -437,7 +439,7 @@
 
     <Style TargetType="Page" ApplyToDerivedTypes="True">
         <Setter Property="Padding" Value="0"/>
-        <Setter Property="BackgroundColor" Value="{StaticResource Dark}" />
+        <Setter Property="BackgroundColor" Value="{AppThemeBinding Light={StaticResource Cyan300Accent}, Dark={StaticResource Dark}}" />
     </Style>
 
     <Style x:Key="BaseStyle" TargetType="Element">
@@ -450,13 +452,13 @@
         <Setter Property="Shell.TabBarBackgroundColor" Value="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource Black}}" />
         <Setter Property="Shell.TabBarForegroundColor" Value="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource White}}" />
         <Setter Property="Shell.TabBarTitleColor" Value="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource White}}" />
-        <Setter Property="Shell.TabBarUnselectedColor" Value="{AppThemeBinding Light={StaticResource LightGray}, Dark={StaticResource DarkGray}}" />
+        <Setter Property="Shell.TabBarUnselectedColor" Value="{AppThemeBinding Light={StaticResource Black}, Dark={StaticResource DarkGray}}" />
     </Style>
     <Style BasedOn="{StaticResource BaseStyle}" TargetType="ShellItem" ApplyToDerivedTypes="True" />
 
     <Style TargetType="NavigationPage">
         <Setter Property="BarBackgroundColor" Value="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource Black}}" />
-        <Setter Property="BarTextColor" Value="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource White}}" />
+        <Setter Property="BarTextColor" Value="{AppThemeBinding Light={StaticResource Black}, Dark={StaticResource White}}" />
         <Setter Property="IconColor" Value="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource White}}" />
     </Style>
 
